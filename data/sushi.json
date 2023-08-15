@@ -1,0 +1,11 @@
+[
+    {"name": "California Roll", "description": "A classic sushi roll with crab, avocado, and cucumber."},
+    {"name": "Spicy Tuna Roll", "description": "Sushi roll with spicy tuna, cucumber, and a kick of heat."},
+    {"name": "Salmon Nigiri", "description": "Slices of fresh salmon draped over hand-pressed rice."},
+    {"name": "Eel Roll", "description": "Sushi roll featuring eel, avocado, and a sweet eel sauce."},
+    {"name": "Rainbow Roll", "description": "Colorful sushi roll with assorted fish and avocado on top."},
+    {"name": "Vegetable Roll", "description": "Sushi roll filled with various fresh vegetables."},
+    {"name": "Sashimi Platter", "description": "Assortment of raw fish slices, a true delicacy."},
+    {"name": "Dragon Roll", "description": "Elaborate sushi roll with eel, avocado, and flying fish roe."}
+  ]
+  
